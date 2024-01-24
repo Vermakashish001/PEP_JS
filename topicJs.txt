@@ -1,0 +1,21 @@
+11 JAN
+.Global execution context
+.call stack -> monitored by event loop
+.Hoisting
+.Function
+    ..function statement
+    ..first order function
+    ..Fat arrow functions  (most used)
+    ..Call back functions  (imp)
+	...call back queue -> async code
+ .arrays
+    ..slice -> doesnt change main array
+    ..splice -> changes main array
+    ..map (imp)
+.promises
+
+12 JAN
+.promise chaining
+    ..fetch API
+	...await vs .this
+
